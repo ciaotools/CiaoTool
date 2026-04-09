@@ -13,7 +13,6 @@
 | Tool | 功能 | Link |
 |------|------|------|
 | 🪙 Token Creator | 一键发币 Solana/BSC/Base | [Launch →](https://ciaotool.io) |
-| 📤 Multisender | 批量空投转账 | [Send →](https://ciaotool.io) |
-| 🛡️ Snipe Protection | 防狙击机器人 | [Protect →](https://ciaotool.io) |
-| 💧 Liquidity Tools | 流动性管理 | [Manage →](https://ciaotool.io) |
-| 📊 Market Making | 算法做市工具 | [Trade →](https://ciaotool.io) |
+| 📤 Multisender | 批量空投转账 | [Send →](https://ciaotool.io/en-US/wallet/manage/multi-to-multi) |
+| 🛡️ Snipe Protection | 防狙击机器人 | [Protect →](https://ciaotool.io/en-US/pump/launch-and-buy) |
+| 📊 Market Making | 做市工具 | [Trade →](https://ciaotool.io/en-US/pump/market-making) |
