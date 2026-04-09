@@ -1,4 +1,4 @@
-## 👋 CiaoTool | 一键发币平台
+##  CiaoTool | 一键发币平台
 
 **No-code multi-chain token creation** · 无代码，一键发币
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ What We Build
+###  What We Build
 
 | Tool | 功能 | Link |
 |------|------|------|
